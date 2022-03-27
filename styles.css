@@ -1,0 +1,11 @@
+body {
+  background: rgb(38, 0, 255);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  background: rgb(2, 105, 2);
+  color: white;
+}
